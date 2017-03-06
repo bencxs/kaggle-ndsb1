@@ -18,6 +18,7 @@ Dataset can be downloaded at [Kaggle's data page](https://www.kaggle.com/c/datas
 * Python
 * sklearn
 * numpy
+* OpenCV
 
 ## How to Use
 - Download the [train.zip](https://www.kaggle.com/c/datasciencebowl/download/train.zip) and [test.zip](https://www.kaggle.com/c/datasciencebowl/download/test.zip) dataset files and place them in a folder called 'data' in your working directory.
